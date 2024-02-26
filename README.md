@@ -39,6 +39,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonTZ&theme=dracula&show_icons=true" />
 </a>
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-AlissonTuze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissontuze7k/)](https://www.linkedin.com/in/alissontuze7k/)
